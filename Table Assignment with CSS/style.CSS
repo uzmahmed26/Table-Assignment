@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(26, 18, 18);
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 1px;
+    width: 70%;
+    height: 60%;
+    border: 1px solid #ddd;
+    margin: 90px;
+    padding: 40px;
+  }
+
+
+table, tr, td, th { 
+    font-family: monospace;
+    border: 10px solid rgb(8, 3, 1);
+    text-align: center;
+    background-color:gray;
+    color: rgb(19, 17, 17);
+   
+}
+tr :hover{
+    background-color: rgb(63, 63, 16);
+}
+tr{
+    background-color: rgb(232, 224, 224);
+    width:100%;
+    height: 60%;
+}
+button{
+    background-color: rgb(205, 85, 20);
+    color: rgb(3, 14, 23);
+    border-color:rgb(205, 85, 20);
+    border-radius: 6pt;
+width:100%;
+font-size:medium;
+}
+.two{
+    background-color:rgb(25, 2, 2);
+color:white;
+font-size: medium;
+}
+h1{
+    font-family: sans-serif;
+    color: orangered;
+}
+
+h2{
+font-family: sans-serif;
+color: white;
+}
+th{
+    font-size: large;
+    background-color:rgb(79, 27, 8) ;
+}
